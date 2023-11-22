@@ -1,4 +1,4 @@
-# FarbodBij
+# Farbod Bijary
 <h1 align="center">Hi 👋, I'm Farbod</h1>
 <h3 align="center">A curious developer who loves to dive into his favorite fields and create inspiring projects.</h3>
 
