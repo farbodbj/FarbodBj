@@ -2,12 +2,13 @@
 <h1 align="center">Hi 👋, I'm Farbod</h1>
 <h3 align="center">A curious developer who loves to dive into his favorite fields and create inspiring projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farbodbj" alt="farbodbj" /></a> </p>
+[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=farbodbj&theme=nord&margin-w=20&margin-h=15&column=8&row=1)](https://github.com/farbodbj)
 
+- ⚒️ Working as an Android dev at [Bale Messenger](https://github.com/balemessenger)
 
-- 🔭 I’m currently working on **leveraging machine learning to develope better software**
+- 🔭 Currently working on **leveraging machine learning to develop better software**
 
-- 🌱 I’m currently learning **Machine Learning using Tensorflow and Android development with Kotlin**
+- 🌱 Learning **Machine Learning using TensorFlow and Android development with Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/farbodbj](https://github.com/farbodbj)
 
