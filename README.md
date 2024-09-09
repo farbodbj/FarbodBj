@@ -1,6 +1,10 @@
 # Farbod Bijary
 <h1 align="center">Hi 👋, I'm Farbod</h1>
-<h3 align="center">A curious developer who loves to dive into his favorite fields and create inspiring projects.</h3>
+<h3 align="center">That the powerful play goes on, and you may contribute a verse.</h3>
+<p align="center"
+<sub>Walt Whitman</sub>
+</p>
+
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=farbodbj&theme=nord&margin-w=20&margin-h=15&column=8&row=1)](https://github.com/farbodbj)
 
