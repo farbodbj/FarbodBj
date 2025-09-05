@@ -12,7 +12,7 @@
 
 - 🌱 Learning about all the fast-paced advancements in AI, NLP, and MLOps
 
-- 👨‍💻 All of my projects are available at [https://github.com/farbodbj](https://github.com/farbodbj)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/farbodbj) and [HuggingFace🤗](https://huggingface.co/farbodbij)
 
 - 📫 How to reach me **farbod.bjary82@gmail.com**
 
